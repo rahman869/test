@@ -1,0 +1,320 @@
+<resources>
+    <string name="app_name">analis23</string>
+    <string name="npm">NPM</string>
+    <string name="name">Nama</string>
+    <string name="classes">Kelas</string>
+    <string name="session">Sesi</string>
+    <string name="morning">Pagi (09.00-11.00 WIB)</string>
+    <string name="afternoon">Siang (13.00-15.00 WIB)</string>
+    <string name="register">Daftar</string>
+    <string name="error">Kesalahan Jaringan</string>
+
+    <string name="Button1">DATA PERMOHONAN </string>
+    <string name="Button2">DATA KREDIT </string>
+    <string name="Button3">ASPEK JAMINAN </string>
+    <string name="Button4">ASPEK KAPASITAS</string>
+    <string name="Button5">ASPEK KEUANGAN</string>
+    <string name="Button6">ASPEK PEMASARAN</string>
+    <string name="Button7">ASPEK KARAKTER</string>
+    <string name="Button8">ASPEK HUKUM</string>
+    <string name="Button9">ASPEK KEBUTUHAN</string>
+    <string name="Button10">ANALIS JANGKA WAKTU</string>
+
+    <string name="text990"> DATA KREDIT </string>
+    <string name="text991"> ASPEK JAMINAN </string>
+    <string name="text992"> ASPEK KAPASITAAS </string>
+    <string name="text993"> ASPEK KEUANGAN </string>
+    <string name="text994"> ASPEK PEMASARAN </string>
+    <string name="text995"> ASPEK KARAKTER </string>
+    <string name="text996"> ASPEK HUKUM </string>
+    <string name="text997"> ANALISA KEBUTUHAN </string>
+    <string name="text998"> ANALISA JANGKA WAKTU </string>
+
+    <string name="no_reg">No Reg</string>
+    <string name="titikdua">:</string>
+    <string name="nama_calon_peminjam">Nama calon peminjam</string>
+    <string name="text0"> Silahkan isi Formulir pembukaan online tabungan secara lengkap
+    sesuai data KTP, Petugas kami akan segera menindaklanjuti setelah menerima formulir yang anda kirimkan.\n </string>
+
+    <string name="titik0">. . . . . </string>
+    <string name="Data_Kredit"> Data Kredit </string>
+    <string name="Aspek_jaminan"> Aspek Jaminan </string>
+    <string name="Sertifikat"> Jaminan Sertifikat </string>
+    <string name="Shm1"> Jaminan Sertifikat 1 </string>
+    <string name="Shm2"> Jaminan Sertifikat 2 </string>
+    <string name="Shm3"> Jaminan Sertifikat 3 </string>
+    <string name="Shm4"> Jaminan Sertifikat 4 </string>
+    <string name="Shm5"> Jaminan Sertifikat 5 </string>
+    <string name="BPKB1">  Jaminan BPKB 1 </string>
+    <string name="BPKB2">  Jaminan BPKB 2</string>
+    <string name="BPKB3">  Jaminan BPKB 3</string>
+    <string name="BPKB4">  Jaminan BPKB 4</string>
+    <string name="BPKB5">  Jaminan BPKB 5</string>
+    <string name="Deposito1"> Jaminan Deposito 1 </string>
+    <string name="Deposito2"> Jaminan Deposito 2 </string>
+    <string name="Deposito3"> Jaminan Deposito 3 </string>
+    <string name="Aspek_kapisitas"> Aspek Kapasitas </string>
+    <string name="Aspek_kauangan"> Aspek Keuangan </string>
+    <string name="Aspek_pemasaran"> Aspek Pemasaran </string>
+    <string name="Aspek_karakter"> Aspek Karakter </string>
+    <string name="Aspek_hukum"> Aspek hukum </string>
+    <string name="Analisa_kabutuhan"> Analisa Kebutuhan </string>
+    <string name="Analisa_jangka_waktu"> Analisa Jangka Waktu </string>
+
+    //Permohonan
+    <string name="text1"> DATA IDENTITAS KREDIT </string>
+    <string name="text2"> Tanggal Permohonan </string>
+    <string name="text3"> No Reg </string>
+    <string name="text4"> Nama Calon Peminjam  </string>
+    <string name="text5"> Nama Panggilan Yang Lebih Di Kenal </string>
+    <string name="text6"> Tempat Lahir   </string>
+    <string name="text7"> Tanggal Lahir  </string>
+    <string name="text8"> Jenis Kelamin  </string>
+    <string name="text9"> No KTP </string>
+    <string name="text10"> Hingga Berlaku  </string>
+    <string name="text11"> Alamat Sesuai KTP  </string>
+    <string name="text12"> Nama Gadis Ibu Kandung  </string>
+    <string name="text13"> Kode Pos  </string>
+    <string name="text14"> Pekerjaan Terakhir  </string>
+    <string name="text14_1"> Nama Perusahaan  </string>
+    <string name="text14_2"> Jabatan  </string>
+    <string name="text14_3"> Alamat Perusahaan  </string>
+    <string name="text15"> Status Pernikahan  </string>
+    <string name="text16"> Jumlah Tanggungan  </string>
+    <string name="text17"> Pendidikan Terakhir  </string>
+    <string name="text18"> Status Rumah Tinggal  </string>
+    <string name="text19"> Sudah Ditempati Selama  </string>
+    <string name="text20"> Alamat Rumah Tinggal  </string>
+    <string name="text20_1"> No Telepon  </string>
+    <string name="text21"> No Handphone  </string>
+    <string name="text22"> Nama Pasangan  </string>
+    <string name="text7_1"> Tanggal Lahir Pasangan  </string>
+    <string name="text9_1"> No KTP Pasangan  </string>
+    <string name="text10_1"> Masa Berlaku KTP Pasangan  </string>
+    <string name="text22_1"> Tanggal Lahir Pasangan  </string>
+    <string name="text22_2"> Masa Berlaku KTP Pasangan  </string>
+    <string name="text23"> Pekerjaan Pasangan </string>
+    <string name="text23_1"> Tempat Lahir Pasangan </string>
+    <string name="text23_2"> Alamat Pasangan </string>
+    <string name="text2_4"> Penghasilan Perbulan </string>
+    <string name="text2_5"> Penjamin </string>
+    <string name="text2_6"> Alamat Penjamin </string>
+    <string name="text2_7"> Tempat Lahir Penjamin </string>
+    <string name="text2_8"> Tanggal Lahir Penjamin </string>
+    <string name="text2_9"> No KTP Penjamin </string>
+    <string name="text2_10"> Masa Berlaku KTP Penjamin </string>
+    <string name="text2_11"> Nama Pasangan Penjamin </string>
+    <string name="text2_12"> Alamat Pasangan Penjamin </string>
+    <string name="text2_13"> Tempat Lahir Pasangan Penjamin </string>
+    <string name="text2_14"> Tgl Lahir Pasangan Penjamin </string>
+    <string name="text2_15"> No KTP Pasangan Penjamin </string>
+    <string name="text2_16"> Masa Berlaku KTP Pasangan Penjamin </string>
+
+
+    //Data Kredit
+    <string name="text24"> JENIS KREDIT  </string>
+    <string name="text25"> SEKTOR  </string>
+    <string name="text26"> FASILITAS KREDIT KE  </string>
+    <string name="text27"> PLAFOND KEDIT  </string>
+    <string name="text28"> JANGKA WAKTU  </string>
+    <string name="text29"> BUNGA  </string>
+    <string name="text30"> TYPE BUNGA  </string>
+    <string name="text31"> PERIODE PEMBAYARAN POKOK  </string>
+    <string name="text32"> JUMLAH ANGSURAN PER BULAN   </string>
+    <string name="text33"> ANGSURAN POKOK PERTAMA   </string>
+    <string name="text34"> ANGSURAN BUNGA PERTAMA   </string>
+    <string name="text35"> PROVISI   </string>
+    <string name="text36"> ADMINISTRASI   </string>
+    <string name="text37"> ON THE SPOT   </string>
+    <string name="text38"> PREMI   </string>
+    <string name="text39"> ASURANSI   </string>
+    <string name="text40"> AKAD KREDIT   </string>
+    <string name="text41"> JENIS PENGGUNAAN   </string>
+    <string name="text42"> PENGGUNAAN   </string>
+    <string name="text43"> SURVEYOR   </string>
+
+    //Aspek Jaminan
+    <string name="text44"> NAMA JAMINAN   </string>
+    <string name="text45"> JENIS JAMINAN   </string>
+    <string name="text46"> ATAS NAMA JAMINAN   </string>
+    <string name="text46_1"> ALAMAT SESUAI KTP </string>
+    <string name="text46_2"> NO KTP  </string>
+    <string name="text46_3"> MASA BERLAKU  </string>
+    <string name="text47"> PENGIKAT JAMINAN   </string>
+    <string name="text48"> HAK TANGGUNGAN   </string>
+    <string name="text49"> NO SHM   </string>
+    <string name="text50"> NO GS   </string>
+    <string name="text51"> LUAS   </string>
+    <string name="text52"> LOKASI   </string>
+    <string name="text52_1"> ASURANSI   </string>
+    <string name="text53"> TAKSIR HARGA TANAH   </string>
+    <string name="text54"> TANAH   </string>
+    <string name="text55"> BANGUNAN   </string>
+    <string name="text56"> TOTAL TAKSIRAN   </string>
+
+    //Aspek Jaminan BPKB
+    <string name="text57"> Nama Jaminan  </string>
+    <string name="text58"> No BPKB  </string>
+    <string name="text59"> Merk / Type  </string>
+    <string name="text60"> Tahun  </string>
+    <string name="text61"> No Rangka  </string>
+    <string name="text62"> No Mesin </string>
+    <string name="text63"> Warna </string>
+    <string name="text64"> No Polisi </string>
+    <string name="text65"> Atas Nama BPKB</string>
+    <string name="text66"> Alamat </string>
+    <string name="text67"> Pengikat Jaminan </string>
+    <string name="text67_1"> Nilai Fiducia </string>
+    <string name="text68"> Taksiran Harga Motor </string>
+
+    //Bilyet Deposito
+    <string name="text69"> Nama Jaminan  </string>
+    <string name="text70"> Atas Nama  </string>
+    <string name="text71"> No.Bilyet  </string>
+    <string name="text72"> Alamat   </string>
+    <string name="text73"> Pengikat Jaminan  </string>
+    <string name="text74"> Besar Deposito </string>
+    <string name="text75"> Total Nilai Jaminan </string>
+    <string name="text76"> % Dari Plafond </string>
+
+    //Aspek Kapasitas
+    <string name="text77"> Pekerjaan  </string>
+    <string name="text78"> Nama Perusahaan  </string>
+    <string name="text79"> Alamat Usaha  </string>
+    <string name="text80"> Lama Usaha / Masa Kerja  </string>
+    <string name="text81"> Uraian Kegiatan Usaha Utama  </string>
+    <string name="text81.1"> Uraian Kegiatan Usaha Lainnya  </string>
+    <string name="text81.2"> Uraian Kegiatan Usaha Lainnya  </string>
+    <string name="text82"> Uraian Kegiatan Sampingan </string>
+    <string name="text83"> Uraian Kegiatan usaha Pasangan </string>
+    <string name="text84"> Kondisi </string>
+    <string name="text85"> Kesimpulan</string>
+
+    //Aspek Keuangan
+    <string name="text86"> Kas  </string>
+    <string name="text87"> Piutang  </string>
+    <string name="text88"> Persediaan  </string>
+    <string name="text89"> Inventaris  </string>
+    <string name="text90"> Tanah / Rumah  </string>
+    <string name="text91"> Total Aktiva </string>
+    <string name="text92"> Hutang Dagang  </string>
+    <string name="text93"> Hutang Bank  </string>
+    <string name="text94"> Pinjaman  </string>
+    <string name="text95"> Modal  </string>
+    <string name="text96"> Laba Usaha  </string>
+    <string name="text97"> Total Pasiva </string>
+    <string name="text98"> Pendapatan Usaha </string>
+    <string name="text99"> Biaya 2 Usaha </string>
+    <string name="text100"> Laba Usaha </string>
+    <string name="text101"> Pendapatan Lain </string>
+
+    <string name="text102"> Total Pendapatan </string>
+    <string name="text103"> Biaya Rumah Tangga </string>
+    <string name="text104"> Biaya Listrik </string>
+    <string name="text105"> Biaya Pendidikan </string>
+    <string name="text106"> Biaya Tranportasi </string>
+    <string name="text107"> Biaya Sosial </string>
+    <string name="text108"> Angsuran Bank 1 </string>
+    <string name="text109"> Angsuran Bank 2 </string>
+    <string name="text110"> Angsuran Bank 3 </string>
+    <string name="text111"> Angsuran Bank 4 </string>
+    <string name="text112"> Angsuran Bank 5 </string>
+    <string name="text113"> Angsuran Bank 6 </string>
+    <string name="text114"> Biaya Lainnya </string>
+    <string name="text115"> Total Biaya </string>
+    <string name="text116"> Kelola Usaha </string>
+
+    <string name="text117"> Persaingan_Usaha </string>
+    <string name="text118"> Pemasaran Usaha </string>
+    <string name="text119"> Amdal Usaha </string>
+    <string name="text120"> Prospek Usaha </string>
+    <string name="text121"> Peminjam Kredit </string>
+    <string name="text122"> Kondite Kredit yang lalu </string>
+    <string name="text123"> Referensi Dari </string>
+    <string name="text124"> Informasi Lingkungan </string>
+    <string name="text125"> Avalis Kredit </string>
+    <string name="text126"> Lainnya </string>
+
+    <string name="text127"> Dasar Kartu Identitas </string>
+    <string name="text128"> Nomor KID </string>
+    <string name="text129"> Legalitas KID </string>
+    <string name="text130"> Masa Berlaku KID </string>
+    <string name="text131"> Akad Kredit </string>
+    <string name="text132"> Asuransi </string>
+    <string name="text133"> Permohonan Kredit </string>
+    <string name="text134"> Tujuan Penggunaan </string>
+    <string name="text135"> Tujuan Modal  </string>
+    <string name="text136"> Tujuan Pelunasan </string>
+    <string name="text137"> Tujuan Pembelian </string>
+    <string name="text138"> Tujuan Renovasi </string>
+    <string name="text139"> Tujuan Sekolah </string>
+    <string name="text140"> Tujuan Lainnya </string>
+    <string name="text141"> Total Kebutuhan </string>
+    <string name="text142"> Kas </string>
+    <string name="text143"> Kebutuhan Bank </string>
+    <string name="text144"> Dibulatkan Menjadi </string>
+    <string name="text145"> Rencana Plafond Kredit </string>
+    <string name="text146"> Pendapatan Bersih Perbulan </string>
+    <string name="text147"> Beban Bunga Maksimal </string>
+    <string name="text148"> Dana Untuk Angsuran Pokok Kredit </string>
+    <string name="text149"> Jangka Waktu Kredit (Rencana Plafond /Dana Angsuran Pokok x1)</string>
+    <string name="text150"> Jangka Waktu Kredit dibulatkan menjadi </string>
+
+
+    <string name="next"> NEXT </string>
+    <string name="PENJAMIN_1"> JAMINAN 1 </string>
+    <string name="PENJAMIN_2"> JAMINAN 2 </string>
+    <string name="PENJAMIN_3"> JAMINAN 3 </string>
+    <string name="PENJAMIN_4"> JAMINAN 4 </string>
+    <string name="PENJAMIN_5"> NJAMINAN 5 </string>
+    <string name="save"> SAVE </string>
+    <string name="tampildata"> TAMPIL DATA </string>
+    <string name="update"> UPDATE </string>
+    <string name="hapus"> HAPUS </string>
+    <string name="spinner_title"> Jenis Kelamin</string>
+    <string name="button_radio">Jenis Kelamin</string>
+    <string name="status_pernikahan">Status Pernikahan</string>
+
+    <string name="data1">Data Permohonan</string>
+    <string name="data2">Data Kredit</string>
+    <string name="data3">Data Aspek Jaminan</string>
+
+    <string name="rp_string">Rp. </string>
+    <string name="per_string">% </string>
+    <string name="titik2">: </string>
+
+    <string name="Tujuan">Tujuan </string>
+    <string name="tgl_realisasi">Tgl Realisasi </string>
+    <string name="uraian_kegiatan_usaha_lainnya">Uraian Kegiatan Usaha Lainnya </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_dasboardmenu">DasboardmenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string-array name="list">
+        <item> Sertifikat Hak Milik</item>
+        <item> Sertifikat hak Guna Bangunan </item>
+    </string-array>
+    <string name="klik_2x">Click 2 Kali</string>
+    <string name="kesimpulan">Dengan Mempertimbangkan Berbagai Aspek Dari Debitur Tersebut, Maka Kami Berkesimpulan Bahwa
+    Debitur Dimaksud Diatas Layak Untuk Diberi Kredit</string>
+
+
+</resources>
+
+
+

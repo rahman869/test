@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/biru">
+
+    <ImageView
+        android:id="@+id/mLogo"
+        android:src="@drawable/logo_danamas"
+        android:layout_width="120dp"
+        android:layout_height="120dp" />
+
+   <TextView
+       android:id="@+id/mainTitle"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:text="BPR DANAMAS PRATAMA"
+       android:textAlignment="center"
+       android:textColor="@color/red"
+       android:textSize="24dp"
+       android:textStyle="bold|italic"/>
+
+</LinearLayout>
